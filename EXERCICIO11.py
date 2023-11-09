@@ -30,4 +30,3 @@ lotacao=10
 veiculos=estacionamento(lotacao)
 veiculos.entrar(5)
 veiculos.sair(3)
-veiculos.lugares()
